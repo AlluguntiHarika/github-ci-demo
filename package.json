@@ -2,6 +2,9 @@
   "name": "github-ci-demo",
   "version": "1.0.0",
   "main": "index.js",
+  "devDependencies": {
+  "jest": "^29.x.x"
+},
   "scripts": {
   "test": "jest"
 },
